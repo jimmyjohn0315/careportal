@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Introduction to CarePortal",
+    "displayTitle": "Introduction to CarePortal",
+    "body": "<p>Approximate duration: 5&nbsp;minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3d2bb324ca1403247d2f11",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "an adult holding a child's hand supporting a heart",
+      "src": "course/en/assets/6b634cf28a26dad8761a65a31bfd6d95cb0301f5.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": false
+    }
+  },
+  {
+    "title": "Best Practices for Requests",
+    "displayTitle": "Best Practices for Requests",
+    "body": "<p>Approximate duration: 15&nbsp;minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f51046f194f6802f3d8a4dc",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "customer thumbs up",
+      "src": "course/en/assets/5ab9aafaa5ec0f0b782e28a25eb40583007d6da0.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": false
+    }
+  },
+  {
+    "title": "Steps to Create Requests",
+    "displayTitle": "Steps to Create Requests",
+    "body": "<p>Approximate duration: 12&nbsp;minutes</p>",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f612ba6194f6802f3d8a7c8",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "business people spin wheel gear mechanism ",
+      "src": "course/en/assets/16a94f8e6a6dadcc0ed53b7ef43a7ece496b3cb6.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": false
+    }
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "title": "Article 1 Overview",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f5a89db194f6802f3d8a653",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/95533e287b67d74375f1b4df337bcfd19dadf633.jpg",
+      "backgroundImageAlt": "Adult and child hands cradling the paper cutout of a home",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 1 Overview",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f63a813194f6802f3d8ab0c",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/77dd824b32bfc5800a1a442923c95e3782fd79f6.jpg",
+      "backgroundImageAlt": "Kids play a bubble",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 1 Overview",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f6ba74a55969f03178e2636",
+    "_parentId": "5f612ba6194f6802f3d8a7c8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/1f175df82a91cc36a37c36d58d1e53049ad22a07.jpg",
+      "backgroundImageAlt": "Girl and grandmother",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 2 What is CarePortal?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f612b04194f6802f3d8a7c0",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f612ba6194f6802f3d8a7c9",
+    "_parentId": "5f612ba6194f6802f3d8a7c8",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "center",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f63f5a655969f03178e248a",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/1f175df82a91cc36a37c36d58d1e53049ad22a07.jpg",
+      "backgroundImageAlt": "Girl and grandmother",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f51046f194f6802f3d8a4dd",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/4c3cfe34f82b0239e7bdd39cf2dd849f2db4bc64.jpg",
+      "backgroundImageAlt": "little girl hold hand with father",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 3 ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f5a3785194f6802f3d8a607",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/a8d4cc0e45688acebdf6df12e1033e69c238bcd8.jpg",
+      "backgroundImageAlt": "Multi-Cultural Children Hanging Out",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 4 Progress Bar",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f6361b6194f6802f3d8a8c0",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f650e5355969f03178e2534",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "Girl and grandmother",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f64d9cd55969f03178e24f5",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "Girl and grandmother",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f6a5b6a55969f03178e25cc",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/6b634cf28a26dad8761a65a31bfd6d95cb0301f5.jpg",
+      "backgroundImageAlt": "adult and child hands holding red heart",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 6",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f638726194f6802f3d8aafe",
+    "_parentId": "5f3d2bb324ca1403247d2f11",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "tertiary",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 6 Congratulations",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f67d98f55969f03178e2559",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": true,
+      "backgroundColor": "none",
+      "backgroundImage": "course/en/assets/2c77eebdb1c8d833e09b8acc5902e81136033e28.jpg",
+      "backgroundImageAlt": "Young black mum plays ukulele with toddler daughter",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": true,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article 7",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f691d2355969f03178e2573",
+    "_parentId": "5f51046f194f6802f3d8a4dc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_parallax": {
+      "_isEnabled": false,
+      "backgroundColor": "none",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "hAnchor": "left",
+      "vAnchor": "top",
+      "caption": "",
+      "forceFullHeight": false,
+      "forceTransparent": false,
+      "innerShadow": false,
+      "removeFixed": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

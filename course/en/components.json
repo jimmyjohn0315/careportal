@@ -1,0 +1,1902 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Purpose of the Course",
+    "displayTitle": "Purpose of the Course",
+    "body": "<p>The CarePortal online course is designed to help you learn how to use the CarePortal platform.&nbsp; This lesson is composed of learning modules, a video demonstration, and a guided practice simulation.&nbsp; At&nbsp;the end of the&nbsp;course, you will be able to&nbsp;submit a request for a family in crisis.&nbsp;</p>",
+    "_id": "5f5a51a3194f6802f3d8a61e",
+    "_parentId": "5f5a51a3194f6802f3d8a61d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is CarePortal?",
+    "displayTitle": "",
+    "body": "<p>In every community, there are children and families at a point of crisis who need help.&nbsp; In those same communities, there are churches and people who care and want to help.&nbsp; What they need is a connection point.</p>",
+    "_id": "5f5a89db194f6802f3d8a659",
+    "_parentId": "5f5a89db194f6802f3d8a655",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is CarePortal?",
+    "displayTitle": "What is CarePortal?",
+    "body": "<p>CarePortal provides the connection point.&nbsp;</p><p>CarePortal is a technology platform that exists to connect children and families in need with local churches.&nbsp; It mobilizes a network of caring people who want to meet needs in their local community.</p>",
+    "_id": "5f612b05194f6802f3d8a7c3",
+    "_parentId": "5f612b05194f6802f3d8a7c1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why use CarePortal?",
+    "displayTitle": "Why use CarePortal?",
+    "body": "<p>As Child Welfare professionals, we want to use every available resource to help families succeed.&nbsp; CarePortal is a tool intended to strengthen families, keep children safe, and reduce barriers to permanency.</p><p>Partnering churches can help meet the tangible needs of our customers and provide a point of social contact within the local community.&nbsp; A CarePortal request should remove a barrier to help achieve the case plan goal.</p>",
+    "_id": "5f612b05194f6802f3d8a7c4",
+    "_parentId": "5f612b05194f6802f3d8a7c1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CarePortal in Oklahoma",
+    "displayTitle": "CarePortal in Oklahoma",
+    "body": "<p>CarePortal began as a pilot project in Stephens County in 2015.&nbsp; As the pilot expanded, data showed CarePortal was a valuable resource to help keep kids safe and advance our families case plan goals.</p><p>In 2019, Oklahoma DHS made a financial investment to provide the CarePortal platform across Oklahoma at no cost to local communities.&nbsp; DHS is actively working toward statewide implementation</p>",
+    "_id": "5f6286ed194f6802f3d8a889",
+    "_parentId": "5f6286ed194f6802f3d8a888",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f62894f194f6802f3d8a891",
+    "_parentId": "5f6286ed194f6802f3d8a888",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "DHS logo",
+      "large": "course/en/assets/36107ae769189f477ce3f858a98926f7331b6d74.png",
+      "small": "course/en/assets/36107ae769189f477ce3f858a98926f7331b6d74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Required Completions and Progress",
+    "displayTitle": "Required Completions and Progress",
+    "body": "<p>Throughout these learning modules, you will be asked to complete activities, such as answering questions or clicking tabs or other features. These activities are required to be completed for course credit and are noted with a “Required” tag. You will be prevented from progressing to the next module if there is an interaction in the current module that is not yet complete.</p><p>You can track your progress in each module,&nbsp;<strong>including content you have and have not completed</strong>, by clicking the progress bar on the top right-side of this screen.</p><p>You do not have to complete all of the learning modules in one sitting. They are designed to save your place as you move through them, allowing you to come back when you need to do so.&nbsp;<strong>This feature will not work, and your completion progress will not be saved, if you close the Learning Management System window on your browser while the learning modules window remains open.&nbsp;</strong>Please leave both windows open as you take this course. If you need to stop before you are finished, close this window first to save your progress.</p>",
+    "_id": "5f6361b6194f6802f3d8a8c3",
+    "_parentId": "5f6361b6194f6802f3d8a8c1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f6361b6194f6802f3d8a8c4",
+    "_parentId": "5f6361b6194f6802f3d8a8c1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "progress bar",
+      "large": "course/en/assets/9660b057eb7c49093957bf171749d74f62f41e56.png",
+      "small": "course/en/assets/9660b057eb7c49093957bf171749d74f62f41e56.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impact of CarePortal",
+    "displayTitle": "Impact of CarePortal",
+    "body": "",
+    "_id": "5f638726194f6802f3d8ab02",
+    "_parentId": "5f638726194f6802f3d8aaff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer (use at least 4 characters) and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/453076997d79ebac1b26afd0c88e09b7af9119e8.jpg",
+    "headerAlt": "Question Mark Return button on keyboard",
+    "questionTitle": "Question",
+    "question": "<p>Can you guess how many children have been positively impacted by CarePortal&nbsp;nationally and statewide?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Nationally, as of September 2020, 2,458 churches have joined the CarePortal network.&nbsp; CarePortal has served 72,262 children in need, making an economic impact of $24,295,362.&nbsp;</p><p>Across Oklahoma, in State Fiscal Year 2020, 1,987 requests were made and 1,298 (65.3%) of those requests were met.&nbsp; 2,733 children benefited from those requests.&nbsp; These requests had an estimated value of $264,555.</p>",
+    "minResponse": 4,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>The most critical part of creating a request in CarePortal is to write a compelling case description, which clearly conveys the need to&nbsp;the ministry partners to help the children and family.&nbsp; This module will inform you of the best practices to follow when composing a case description.&nbsp;</p>",
+    "_id": "5f63a813194f6802f3d8ab0f",
+    "_parentId": "5f63a813194f6802f3d8ab0e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "thinkingmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A Good Description ",
+    "displayTitle": "A Good Description ",
+    "body": "",
+    "_id": "5f63f5a655969f03178e248f",
+    "_parentId": "5f63f5a655969f03178e248d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select the best answer(s), then click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/eb21a5872c00052e1f45c5e39fc2db6374c84609.jpg",
+    "headerAlt": "Question mark",
+    "questionTitle": "Question",
+    "question": "<p>Based on your training and experience at Child Welfare, is there anything inappropriate that you notice from the above case description?</p>",
+    "_items": [
+      {
+        "text": "Includes confidential information about the child (name and location)"
+      },
+      {
+        "text": "Contains grammar and spelling errors"
+      },
+      {
+        "text": "Contains DHS jargon and acronyms"
+      }
+    ],
+    "_multiselect": true,
+    "feedbackTitle": "Feedback",
+    "feedback": "<p style=\"margin-left:.25in\">A good case description&nbsp;conveys the need to the ministry partners.&nbsp; However, this story is problematic in many ways.</p><ol style=\"margin-left:40px\"><li><strong>Confidentiality</strong>. It contains confidential information about the child (e.g., Jason Brown, near 145th and Western).</li><li><strong>Grammar mistakes</strong>. It also has some grammatical mistakes and spelling errors (e.g., hosiptal, digitle).</li><li><strong>DHS jargon and acronyms</strong>. The use of DHS jargon and acronyms (e.g., BM, NF) can be confusing to those not used to our terminology.</li></ol><p style=\"margin-left:.25in\">Let's learn some DHS best practices for&nbsp;Creating Requests in CarePortal.</p>",
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "graphic-accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Best Practices",
+    "displayTitle": "Best Practices",
+    "body": "<p>Over the years, DHS has determined several best practices for creating requests in CarePortal.</p>",
+    "_id": "5f63f96e55969f03178e24a0",
+    "_parentId": "5f510470194f6802f3d8a4de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each item to learn more. ",
+    "defaultAlt": "Gold puzzle written with best practices",
+    "defaultSrc": "",
+    "_items": [
+      {
+        "title": "1.\tMaintain the Honor & Credibility of the Agency",
+        "body": "<p style=\"margin-left:.25in\">When sending requests to CarePortal, you are representing DHS.&nbsp; Please check grammar, spelling, and content before submitting them.</p><p style=\"margin-left:.25in\">If you need further assistance, ask your supervisor, coworker, or point person to check the description to make sure the request makes sense.</p><p style=\"margin-left:.25in\">Also, keep in mind how you convey the needs about kinship families and foster families.&nbsp; We should not talk poorly about previous foster parents or place too much emphasis on kinship families not getting full reimbursements until they are fully approved.&nbsp;</p><p style=\"margin-left:.25in\">Remember, the person reading your request might be considering being a foster parent in the future and you don’t want to scare them off before they even look into the program thinking we offer no assistance.</p>",
+        "_graphic": {
+          "alt": "Smiling man at the office",
+          "src": "course/en/assets/d20a936a21c275992224faf071305ce7c7e0416c.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Highlight Family Strengths",
+        "body": "<p>Tell the positives about your customer.&nbsp; For example, what are they doing well?&nbsp; If they have completed their services, mention that in general terms. Brag on them! &nbsp;</p><p>The request should be written in a way your customer&nbsp;could read it and agree to share that information.</p>",
+        "_graphic": {
+          "alt": "Father with children",
+          "src": "course/en/assets/096eb94c2381b56c2dd0f1dc6046208942e6bd2a.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Confidentiality",
+        "body": "<p style=\"margin-left:.25in\">Only NON-CONFIDENTIAL information should be shared on CarePortal.&nbsp; No names or addresses.&nbsp;</p><p style=\"margin-left:.25in\">You may list that the customers&nbsp;are working hard on completing services, but not what those specific services are. &nbsp;</p><p style=\"margin-left:.25in\">Include children’s ages/sizes/gender only if requesting age-appropriate items or clothing.</p>",
+        "_graphic": {
+          "alt": "File folders with confidential label",
+          "src": "course/en/assets/d5c148bc344de9c65fd3ce0dbb252853324bd339.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Avoid DHS Jargon and Abbreviations",
+        "body": "<p>CarePortal provides you with an opportunity to educate the public about what we do.&nbsp; The information in the CarePortal goes to ministry partners who may have no idea what our job involves.&nbsp;</p><p>Terms like \"kinship\" could easily be described as \"this aunt signed up to be a foster parent last night to help her 4 nieces and nephews stay with family and stay together.\"&nbsp;</p><p>FCS could be described as “this family is working hard and putting services in place to keep their family together.”&nbsp;</p><p>Instead of using an abbreviation like BM or Biological mother, we could simplify the language and say \"a mom is in need of ….\" and put the need out there clearly.&nbsp;</p><p>It is important to avoid using&nbsp;terms or acronyms that are common in DHS language, but someone in the community wouldn’t readily understand.</p>",
+        "_graphic": {
+          "alt": "Workers talking",
+          "src": "course/en/assets/ba8cd37b6b150d28746e865e9325dcfd480d2c4e.jpg"
+        },
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Meeting the Need",
+    "displayTitle": "Meeting the Need",
+    "body": "<p>Read this part of the previous case description again and focus on the need of the family.</p><p style=\"margin-left:40px\">\"DHS is requesting $200 to obtain a digital scale to weigh the child frequently, so they can report to the medical team.”</p>",
+    "_id": "5f63fdbd55969f03178e24a9",
+    "_parentId": "5f63ba1a194f6802f3d8ab15",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer (use at least 25 characters) and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/eb21a5872c00052e1f45c5e39fc2db6374c84609.jpg",
+    "headerAlt": "Question mark",
+    "questionTitle": "Question",
+    "question": "<p>&nbsp;What do you notice about the need?&nbsp; Is there anything inappropriate?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>It is&nbsp;inappropriate to request money for the family on behalf of DHS.&nbsp;</p><p>To learn why it is not appropriate, let’s look at another DHS best practice - NO cash or gift cards.&nbsp;</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A CarePortal Request",
+    "displayTitle": "A CarePortal Request",
+    "body": "<p><strong>Let’s look at a request that recently submitted to CarePortal. Anything inappropriate?</strong></p><p>Jason Brown is a child that has recently been placed near 145<sup>th</sup>&nbsp;and Western.&nbsp;Jason has medical issues and has to keep in close contact with a medical team weekly at Children's Hosiptal.&nbsp;The BM has limited income and the child’s NF is not currently involved.&nbsp; DHS is requesting $200 to obtain a digitle scale to weigh the child frequently, so they can report to the medical team.</p>",
+    "_id": "5f64020e55969f03178e24ac",
+    "_parentId": "5f64020e55969f03178e24ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f64d53f55969f03178e24e7",
+    "_parentId": "5f64d53f55969f03178e24e6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f64d53f55969f03178e24e8",
+    "_parentId": "5f64d53f55969f03178e24e6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to Module 2: Best Practices for Requests",
+    "pageID": "",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f64e44b55969f03178e2512",
+    "_parentId": "5f64d9cd55969f03178e24f8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Young business people with thumbs raised up",
+      "large": "course/en/assets/51ffc012c686f35fc7c3a6675b919d4b646da269.jpg",
+      "small": "course/en/assets/51ffc012c686f35fc7c3a6675b919d4b646da269.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Best Practices # 5 NO Cash or Gift Cards",
+    "displayTitle": "Best Practices # 5 NO Cash or Gift Cards",
+    "body": "<p><strong>NO cash or gift cards</strong> should ever pass through your hands.&nbsp; It is critical to protect your integrity and the integrity of those who work with you.</p><p>Additionally, cash should never be provided by the partner directly to the customer.&nbsp; In cases where money is required, we link the partners straight with the agency needing the funds (utility, landlord, daycare, etc).</p><p>Gift Cards are strongly discouraged as most needs can be met in another way.&nbsp; If you feel that a gift card is the only option to meet a need – you can staff the request with your supervisor to ensure that this is the case and all other options have been exhausted.</p><p>Be creative and think outside of the box. Our goal is to help connect the adults on your case with the adults from the ministry partners.</p>",
+    "_id": "5f650e5355969f03178e2537",
+    "_parentId": "5f650e5355969f03178e2535",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f650e5355969f03178e2538",
+    "_parentId": "5f650e5355969f03178e2535",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "girl shows no hands",
+      "large": "course/en/assets/1cd1e2f1e215b2a971e3139b59b5d20cf5ed456c.jpg",
+      "small": "course/en/assets/1cd1e2f1e215b2a971e3139b59b5d20cf5ed456c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Requesting the Need",
+    "displayTitle": "Requesting the Need",
+    "body": "<p>Given the guideline of “No cash or gift cards,” what do you think of the way this need is presented?</p><p style=\"margin-left:40px\">\"DHS is requesting $200 to obtain a digital scale to weigh the child frequently,&nbsp;so they can report to the medical team.”</p>",
+    "_id": "5f650e5355969f03178e253b",
+    "_parentId": "5f650e5355969f03178e2536",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer (use at least 25 characters) and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/eb21a5872c00052e1f45c5e39fc2db6374c84609.jpg",
+    "headerAlt": "Question mark",
+    "questionTitle": "Question",
+    "question": "<p>Can you help rephrase the family’s need?&nbsp;</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Here is a better way to phrase the family's need.</p><p style=\"margin-left:40px\">The family needs a digital scale to weigh the child frequently, so they can report to the medical team.</p><p>Also, if there is a specific type of scale recommended by the doctor’s office, you could even provide a link to Amazon.com or Walmart.com.&nbsp;Doing that makes it easy for the church responded to purchase exactly what is needed.</p><p>.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Best Practices",
+    "displayTitle": "Best Practices",
+    "body": "<p>In the previous sections, you learned 5 best practices for requests.&nbsp; Let's continue to learn more.&nbsp;</p>",
+    "_id": "5f650f4255969f03178e253c",
+    "_parentId": "5f64d9cd55969f03178e24f8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each item to learn more. ",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "6. Significance: Needs vs. Wants",
+        "body": "<p style=\"margin-left:.25in\">CarePortal is designed to meet needs that keep the child safe or advance the case plan goal.&nbsp; Therefore, it is essential to distinguish between needs and wants when utilizing CarePortal resources.</p><p style=\"margin-left:.25in\">Some examples of “wants” are a Christmas item, birthday item, tv or outdoor playset.&nbsp; A “need” is a bed or clothing.</p><p style=\"margin-left:.25in\">Clearly convey why the item requested is needed and how it benefits the family, so the ministry partners can see why they should help the family meet this need.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "7. DHS Voice: No Scriptures",
+        "body": "<p style=\"margin-left:.25in\">When submitting requests to CarePortal as a Child Welfare Specialist, you are representing DHS.&nbsp; Please do not quote scripture or other sayings in the request.&nbsp; Stick to the professional voice of advocating for your customer’s needs.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "8. Prepared for Success",
+        "body": "<p>Before submitting a request to CarePortal, ask yourself the question “Do I&nbsp;have all the details for the ministry partner to meet the need?”&nbsp; Some details belong in the case description and some do not.</p><p>For example, details that should be in the case description is if the family needs clothes and shoes for their child. Please include information, such as gender, clothing sizes, shoe size, and preferences (such as skinny jeans with no holes or boot cut).&nbsp;</p><p>Details that <strong>should not</strong> be included in the case description, but you will need to know before making a&nbsp;request are:</p><ul><li>Directions needed for delivery of the items</li><li>Account number and the exact amount of a payment</li><li>Whether the payment can be made by check or by credit card</li><li>How&nbsp;a ministry partner can directly pay for that need</li></ul><p>In that way, when a partner reaches out to meet the need, you are ready to share the information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "9. Connection ",
+        "body": "<p style=\"margin-left:.25in\">One of the goals of using CarePortal is to connect relationally.&nbsp; Always attempt to provide an opportunity for the family to connect with the ministry partner.</p><p style=\"margin-left:.25in\">Sometimes a connection is made that extends past the first transaction, and the family may be able to receive further support from the ministry partners, thus meeting the purpose of Child Welfare Services to improve the well-being of children and families.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Review",
+    "displayTitle": "",
+    "body": "<p>Congratulations!&nbsp; You have learned the guidelines for writing a compelling case description.&nbsp; Before we move on, let's review the content&nbsp;in this module.</p>",
+    "_id": "5f67d98f55969f03178e255c",
+    "_parentId": "5f67d98f55969f03178e255b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Requesting Beds",
+    "displayTitle": "Requesting Beds",
+    "body": "<p>Read the two case descriptions below.&nbsp; Which case description seems most appropriate given the best practices for creating a case description?</p>",
+    "_id": "5f691f6855969f03178e2579",
+    "_parentId": "5f691e7a55969f03178e2577",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "slide",
+    "front": {
+      "title": "Case Description 1",
+      "src": "",
+      "alt": "",
+      "body": "<p style=\"margin-left:.25in\">DHS is removing a sibling set of 4 boys that age from 3 months to 8 years old due to extreme domestic violence in the home.&nbsp; The BM identified a possible kinship home.&nbsp; The maternal aunt is willing to take the children in her home but she does not have beds for the children.&nbsp; If the aunt cannot locate beds for the children, then the placement cannot be made with her.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Case Description 2",
+      "src": "",
+      "alt": "",
+      "body": "<p style=\"margin-left:.25in\">A kinship home is stepping up for a sibling set of 4 boys ranging from 3 months old to 8 years old.&nbsp; This&nbsp;aunt is in need of beds for the children.&nbsp; She needs a crib, a toddler bed, and two twin mattresses along with bedding for the boys.&nbsp; It is wonderful to find a family willing to keep siblings together and this is the only barrier preventing the boys from being with family.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f6a2d7955969f03178e25a1",
+    "_parentId": "5f691e7a55969f03178e2577",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Two young children, a toddler and his big brother",
+      "large": "course/en/assets/f95a509dd61020d4830740b13d27826b7f19d871.jpg",
+      "small": "course/en/assets/f95a509dd61020d4830740b13d27826b7f19d871.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "panels",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How does CarePortal work?",
+    "displayTitle": "How does CarePortal work?",
+    "body": "<p>These are 5 essential steps to use the CarePortal platform.</p>",
+    "_id": "5f6a532455969f03178e25c3",
+    "_parentId": "5f6a531755969f03178e25c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each item to learn more.",
+    "_items": [
+      {
+        "title": "Step 1",
+        "body": "<p>Talk to your customers&nbsp;and get their permission.</p>",
+        "_graphic": {
+          "alt": "Parents with Child Welfare Specialist",
+          "src": "course/en/assets/6bd4f4fd4b1b5715f66e7489cc2efed73b9cda70.jpg"
+        }
+      },
+      {
+        "title": "Step 2",
+        "body": "<p>Submit a request.</p>",
+        "_graphic": {
+          "alt": "words submit request on computer keyboard",
+          "src": "course/en/assets/1b72543e76e950824dcb9fdb0fa3f42a5bae2e0e.jpg"
+        }
+      },
+      {
+        "title": "Step 3",
+        "body": "<p>Get supervisor’s approval.</p>",
+        "_graphic": {
+          "alt": "Worker using a computer",
+          "src": "course/en/assets/202ca417ef348a8c5e323c9eba588e0da796e6ab.jpg"
+        }
+      },
+      {
+        "title": "Step 4",
+        "body": "<p>Respond to churches.</p>",
+        "_graphic": {
+          "alt": "Specialist on the phone",
+          "src": "course/en/assets/d628a86f5f9029038709318472343bd4fd843855.jpg"
+        }
+      },
+      {
+        "title": "Step 5",
+        "body": "<p>Close the request and thank the partner.</p>",
+        "_graphic": {
+          "alt": "a hand holding a paper saying thank you",
+          "src": "course/en/assets/0302c5f761aae8a37b15b524b9812ee9245a5e8a.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What can CarePortal help with?",
+    "displayTitle": "What can CarePortal help with?",
+    "body": "<p>Across the child welfare spectrum, CarePortal helps vulnerable children and families.</p><p>Oklahoma DHS only utilizes CarePortal’s Tier 1, which is meeting needs with anything that can be bought or donated.&nbsp;Here are some examples.</p>",
+    "_id": "5f6a5b6a55969f03178e25cf",
+    "_parentId": "5f6a5b6a55969f03178e25ce",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each item to learn more. ",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Car Seats",
+        "body": "<p>A kinship placement will take a grandchild but doesn’t have a car seat.</p>",
+        "_graphic": {
+          "alt": "baby sleeping in car seat and holding a soccer ball",
+          "src": "course/en/assets/b39102879d7c756143f3ebb3de93788629199d85.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Beds",
+        "body": "<p>A foster family is willing to take a large sibling group but would need another set of bunk beds</p>",
+        "_graphic": {
+          "alt": "Modern teenager room with bunk bed",
+          "src": "course/en/assets/731efc1d13ea40e651c2ff18aa108710ba469431.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Bills",
+        "body": "<p>A reunified family is doing well, but after paying their rental deposit, buying groceries, and getting necessities for their new home, will need assistance with their electric deposit and first bill.</p>",
+        "_graphic": {
+          "alt": "electricity charges with US bills on top",
+          "src": "course/en/assets/a2c8c758aba6678dfafe626b17c21991fbdeca6b.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Room Supplies",
+        "body": "<p>A youth aging out of care just received a full-ride scholarship to an out of state college and needs dorm room supplies.</p>",
+        "_graphic": {
+          "alt": "Hostel dormitory beds arranged in room",
+          "src": "course/en/assets/633d3d92662895dbda1ccb27451b451f78a22bb8.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Level of Urgency",
+    "displayTitle": "Level of Urgency",
+    "body": "<p>The level of urgency is when a need expires or is no longer a need.&nbsp;There are three levels in CarePortal.</p>",
+    "_id": "5f6a5cb755969f03178e25d5",
+    "_parentId": "5f6a5b6a55969f03178e25ce",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more. ",
+    "showIcons": true,
+    "_items": [
+      {
+        "title": "Critical",
+        "body": "<p><strong><em>Critical</em></strong> needs are needs that must be met within 24 hours.&nbsp; An example of a critical need is: a kinship placement needing a daycare fee paid by the time the child is picked up that same evening in order to keep the daycare spot and ensure placement stability.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "warning",
+        "_classes": ""
+      },
+      {
+        "title": "High",
+        "body": "<p><strong><em>High</em></strong> needs are needs that have to be met within 72 hours.&nbsp; An example of a high need is: a single mother of a newborn, who will be discharged in the next few days from the hospital, needing a crib for the baby to have a safe sleep environment.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "flag",
+        "_classes": ""
+      },
+      {
+        "title": "Normal",
+        "body": "<p><strong><em>Normal</em> </strong>needs are needs that can be met within 7-10 days.&nbsp;&nbsp;An example of a normal need&nbsp;is: a family needing&nbsp;beds and mattresses for their children to&nbsp;increase their well-being.&nbsp;&nbsp;<strong>The vast majority of requests that come through CarePortal should be designated as normal</strong>.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "time",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "dnd",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which Case Description is Better?",
+    "displayTitle": "Which Case Description is Better?",
+    "body": "",
+    "_id": "5f6a5dca55969f03178e25da",
+    "_parentId": "5f6a5dca55969f03178e25d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click and drag each item to its correct category, then click Submit.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_categories": [
+      {
+        "title": "Good case description",
+        "_options": [
+          {
+            "text": "Case Description 2",
+            "hint": ""
+          }
+        ]
+      },
+      {
+        "title": "Bad case description",
+        "_options": [
+          {
+            "text": "Case  Description 1",
+            "hint": ""
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>You are correct.&nbsp;The second case description is better for three reasons.</p><ul><li>It does not contain&nbsp;any DHS lingo.</li><li>The client's confidential information is protected.&nbsp; It has enough details but did not share the reasons for removal, which is not applicable to this request.</li><li>It is a strength-based request.&nbsp; It educates the community on kinship families that step up and keep siblings together.</li></ul><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.&nbsp; Compared with the first case description,&nbsp;the second case description is better for three reasons.</p><ul><li>It does not contain&nbsp;any DHS lingo.</li><li>The client's confidential information is protected.&nbsp; It has enough details but did not share the reasons for removal, which is not applicable to this request.</li><li>It is a strength-based request. It educates the community on kinship families that step up and keep siblings together.</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Requesting Funds for Housing",
+    "displayTitle": "Requesting Funds for Housing",
+    "body": "<p>You are a Child Welfare Specialist. &nbsp;A previously homeless mother has found an apartment and is preparing for trial reunification.&nbsp; She can’t move in until she repays $960 she owes to the housing authority.&nbsp; You know she is working part-time and has saved $610 so far to pay toward what she owes. &nbsp;They are holding her spot for the next two weeks, but after that deadline, she will lose the apartment.&nbsp; She has completed her domestic violence classes, has successful UA’s for 6 months, and passed her required parenting course. Once housing is secured, trial reunification can begin.</p>",
+    "_id": "5f6b8f6355969f03178e2606",
+    "_parentId": "5f6a5f7555969f03178e25db",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer (use at least 80 characters) and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/4abcdb0fbb9f2efd11758146d747b51818a57ae3.jpg",
+    "headerAlt": "man typing on computer",
+    "questionTitle": "Question",
+    "question": "<p>Would you please write a case description for this need?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Before looking at a sample answer, let’s read your request and consider the following questions.</p><ul><li>Was your request prepped for success?&nbsp;</li><li>Was the need clearly conveyed and the impact it&nbsp;would have on the family?</li><li>Were the strengths of the family highlighted?</li><li>Did&nbsp;the request have enough details while protecting the confidential information of the client?&nbsp;(For example, it did not mention which services the&nbsp;mother&nbsp;was required to complete.)</li></ul><p>If not, think about how you would modify your request before continuing.</p><p>&nbsp;</p>",
+    "minResponse": 80,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "Feedback",
+    "body": "",
+    "_id": "5f6b9b1455969f03178e2618",
+    "_parentId": "5f6b9ab355969f03178e2616",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more. ",
+    "animation": "slide",
+    "front": {
+      "title": "Feedback",
+      "src": "course/en/assets/e19138053622f9083eaf86724f1506c2cf92de53.jpg",
+      "alt": "Hand holding a wooden piece with smile face",
+      "body": "<p>Let's compare your case description to&nbsp;the sample one.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Sample Case Description ",
+      "src": "",
+      "alt": "",
+      "body": "<p>I am working with a mother of two on a case, who&nbsp;has been homeless for a year.&nbsp; She owes the housing authority $960.&nbsp; She has worked very hard and completed all her services.&nbsp; She has been saving money to pay back what she owes in order to be eligible for an apartment again.&nbsp; She has now managed to save $610.&nbsp;</p><p>The housing&nbsp;authority is currently holding her spot for two more weeks.&nbsp; This is the only thing holding the children from going home.&nbsp; The remaining $350 would be paid directly to the housing authority and can only be paid via check (or money order).</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Things to Remember",
+    "displayTitle": "Things to Remember",
+    "body": "",
+    "_id": "5f6b9f2155969f03178e2623",
+    "_parentId": "5f6b9ab355969f03178e2616",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more. ",
+    "animation": "slide",
+    "front": {
+      "title": "Ask Yourself",
+      "src": "course/en/assets/801071d8020b58c9474f2e6b2fbfda59bb964b4d.jpg",
+      "alt": "Don't forget note",
+      "body": "<p>Before submitting requests to CarePortal, ask yourself the following questions.&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Questions",
+      "src": "",
+      "alt": "",
+      "body": "<ul><li>Does the&nbsp;request maintain the honor &amp; credibility of the agency? No grammar mistakes, no scriptures, and&nbsp;no DHS jargon?</li><li>Does the request have enough details, while protecting the confidential information of the client?</li><li>Is my request prepared for success?&nbsp; Do I&nbsp;know who to call, how the money can be paid, or the address to send a check?&nbsp;</li><li>Is the need clearly conveyed and the impact this would have on the family?</li><li>Are the strengths of the family highlighted?</li></ul>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f6bae1355969f03178e2647",
+    "_parentId": "5f6bae1355969f03178e2646",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Wrap Up",
+    "displayTitle": "Wrap Up",
+    "body": "<p>Now you've&nbsp;learned the steps to create requests in CarePortal.&nbsp; Close the browser window to return to the main course menu in the Learning Management System.&nbsp; There you will find a guided practice, which walks you through the steps you have just learned.&nbsp; You must complete the guided practice to receive a completion for this course.</p>",
+    "_id": "5f6bae4b55969f03178e264c",
+    "_parentId": "5f6bad3e55969f03178e2640",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f6bb58e55969f03178e265a",
+    "_parentId": "5f6bb53655969f03178e2657",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f6bb59755969f03178e265b",
+    "_parentId": "5f6bb53655969f03178e2657",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to Next Module: Steps to Create Requests",
+    "pageID": "",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Highlights",
+    "displayTitle": "Highlights",
+    "body": "<p>There are three things to note when creating requests.</p>",
+    "_id": "5f6ca90355969f03178e2669",
+    "_parentId": "5f6ca90355969f03178e2667",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click to view each item.",
+    "startLabel": "Number 1",
+    "_buttonExitAnimation": "bounceOut",
+    "_items": [
+      {
+        "body": "<p>You must use Google Chrome to access the website&nbsp;<a href=\"http://careportal.org\" target=\"_blank\">careportal.org</a>.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Number 2"
+      },
+      {
+        "body": "<p>When entering your phone number, enter your DHS cell phone.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Number 3"
+      },
+      {
+        "body": "<p>The case ID in the CarePortal system should be the KK or referral ID.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Helpline",
+    "displayTitle": "Helpline",
+    "body": "<p>Check out the&nbsp;<a href=\"https://careportal.zendesk.com/hc/en-us/categories/360002492173-Agencies\" target=\"_blank\">CarePortal Help Center</a>&nbsp;for information regarding submitting and approving requests.</p><p>You may also contact the Oklahoma DHS CarePortal team for any CarePortal questions at&nbsp;<a href=\"mailto:CWS.CarePortal@okdhs.org\">CWS.CarePortal@okdhs.org</a>.&nbsp;</p><p>Regional Oklahoma DHS Point of Contact:</p><ul><li>Region 1 &amp; Cleveland County -&nbsp;Aleece Mann</li><li>Region 2 &amp; 3 -&nbsp;Patti Jensen</li><li>Region 4 -&nbsp;Andrea Stasyszen</li><li>Region 5 - Erica Ridgley</li></ul>",
+    "_id": "5f6ca90f55969f03178e266a",
+    "_parentId": "5f6ca90355969f03178e2667",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "hand dialing a phone",
+      "large": "course/en/assets/772572b74ee1732f5bfdd6025f5e088be593fee4.jpg",
+      "small": "course/en/assets/772572b74ee1732f5bfdd6025f5e088be593fee4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5f6e5c8b55969f03178e2724",
+    "_parentId": "5f67d98f55969f03178e255b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Wrap Up",
+    "displayTitle": "Wrap Up",
+    "body": "<p>In this&nbsp;module, you've learned some basic information about the CarePortal platform.&nbsp; In the next learning module, we’ll look at some best practices for creating requests.</p>",
+    "_id": "5f749e1455969f03178e2797",
+    "_parentId": "5f749cbd55969f03178e2796",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Requesting a Dresser",
+    "displayTitle": "Requesting a Dresser",
+    "body": "<p>Anna Brown is a child welfare specialist at DHS. She recently submitted a request for a dresser to CarePortal on behalf of a family. &nbsp;A church responded saying that they were willing to help. They asked if they could give the money to Anna and let her help with purchasing the dresser. &nbsp;Can Anna respond to the church that she could accept the money on behalf of the family?</p>",
+    "_id": "5f75df7a55969f03178e27a9",
+    "_parentId": "5f691d2455969f03178e2574",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Choose the best answer(s), then click Submit.",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/7d214b71b691b8eea4431146f5242b1891d55ad8.jpg",
+          "small": "course/en/assets/7d214b71b691b8eea4431146f5242b1891d55ad8.jpg",
+          "alt": "Cheerful African American woman using laptop",
+          "attribution": ""
+        },
+        "text": "Yes, Anna can accept the money on behalf of the family.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/b5faf1231214758e4edd4378f7271b8f4ecf7bcd.jpg",
+          "small": "",
+          "alt": "Young African American business woman using laptop look serious",
+          "attribution": ""
+        },
+        "text": "No, Anna cannot accept the money on behalf of the family. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You are correct!</p><p>An agency worker cannot accept cash or gift cards of any kind (e.g., gift cards for food, gas, or visa gift card).&nbsp; This is to prevent any potential perception of misuse of funds.&nbsp; Instead, the church could pay for the dresser directly (for example from Walmart), and the family or worker could pick up the item.&nbsp; If the item can be purchased online (Amazon), then it could be shipped directly to the family.&nbsp; Or if the church had a gently used dresser, they could possibly drop it off at the family home.</p><p>In this case, Anna could respond to the church to thank them for the kind offer, but explained&nbsp;she <strong>could not&nbsp;</strong>accept cash, only items, on behalf of the family.&nbsp; She could explain the other options for purchasing items for the family and talk through delivery possibilities. For example, having it shipped directly to the family home or she could pick up the purchased item. The purpose would be to find a creative solution that works for the church partner, the family, and follows DHS guidelines.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.</p><p>An agency worker cannot accept cash or gift cards of any kind (e.g., gift cards for food, gas, or visa gift card).&nbsp; This is to prevent any potential perception of misuse of funds.&nbsp; Instead, the church could pay for the dresser directly (for example from Walmart), and the family or worker could pick up the item.&nbsp; If the item can be purchased online (Amazon), then it could be shipped directly to the family.&nbsp; Or if the church had a gently used dresser, they could possibly drop it off at the family home.</p><p>In this case, Anna could respond to the church to thank them for the kind offer, but explained she <strong>could not&nbsp;</strong>accept cash, only items, on behalf of the family.&nbsp; She could explain the other options for purchasing items for the family and talk through delivery possibilities. For example, having it shipped directly to the family home or she could&nbsp;pick up the purchased item. The purpose would&nbsp;be to find a creative solution that works for the church partner, the family, and follows DHS guidelines.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Wrap Up",
+    "displayTitle": "Wrap Up",
+    "body": "<p>In this module, you’ve learned the guidelines for writing a compelling case description.&nbsp; There is a reference&nbsp;sheet&nbsp;that you can download in the Learning Management System.&nbsp; In the next learning module, we’ll learn the steps to create requests in CarePortal.&nbsp;</p>",
+    "_id": "5f7b4f7955969f03178e2868",
+    "_parentId": "5f7b4f7955969f03178e2867",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Help Your Colleague",
+    "displayTitle": "Help Your Colleague",
+    "body": "<p>You are a child welfare specialist at DHS.&nbsp; Your colleague, Lisa, is asking you to proof-read a request that she has created in the CarePortal for a family that she serves.&nbsp;</p><p style=\"margin-left:40px\"><strong>Request</strong></p><p style=\"margin-left:40px\">A child’s birthday is coming up and the mom wants a trampoline for her child.&nbsp; The child is active and enjoys outside activities.&nbsp; She would like for him to not be stuck inside and have activities to do outside.&nbsp; Help surprise this child with some outdoor fun!&nbsp; May the God of hope fill you with all joy and peace as you trust in him!</p><p>Given the guidelines we’ve discussed, which of the&nbsp;following best practices does the request fail to follow?</p>",
+    "_id": "5f7b802d55969f03178e2884",
+    "_parentId": "5f7b7d2a55969f03178e2881",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Significance",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Prepared for Success",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "DHS Voice: No Scriptures",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Maintain the Honor & Credibility of the Agency",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You are correct!</p><p>Lisa’s request aims to help a child to get a birthday gift.&nbsp; It also contains a religious saying.&nbsp; Therefore, her request does not follow the best practices, <em>Significance</em> and <em>DHS Voice: No Scriptures</em>.</p><p><em><strong>Significance</strong></em> distinguishes needs and wants.&nbsp; As child welfare specialists, we utilize CarePortal to meet needs that keep the child safe or advance the case plan goal.&nbsp; If a request does not achieve these two purposes, then it is not appropriate to use the CarePortal resource.</p><p>When submitting requests to CarePortal, we are representing DHS.&nbsp; It is important to stick to the professional voice (<strong><em>DHS Voice</em></strong>) of advocating for customer’s needs.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.</p><p>Lisa’s request aims to help a child to get a birthday gift.&nbsp; It also contains a religious saying.&nbsp; Therefore,&nbsp;her request does not follow the best practices, <em>Significance</em> and <em>DHS Voice: No Scriptures</em>.</p><p><strong><em>Significance</em></strong> distinguishes needs and wants.&nbsp; As child welfare specialists, we utilize CarePortal to meet needs that keep the child safe or advance the case plan goal.&nbsp; If a request does not achieve these two purposes, then it is not appropriate to use the CarePortal resource.</p><p>When submitting requests to CarePortal, we are representing DHS.&nbsp; It is important to stick to the professional voice (<strong><em>DHS Voice</em></strong>) of advocating for customer’s needs.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communicating with the Family",
+    "displayTitle": "Communicating with the Family",
+    "body": "<p>Communicating with&nbsp;the family is an important step to prepare for a successful CarePortal request.&nbsp; We need to ask the family:</p><ul><li>Whether it’s okay for us to advocate for their need on this&nbsp;tool&nbsp;</li><li>Whether we can&nbsp;share their name and contact number when a church responds,&nbsp;so the church can connect with them and drop off the needed item</li></ul><p>Talking with the family about the process leads to more successful collaborations. It also ensures we have all the details required to post the CarePortal request – including the family’s permission!</p>",
+    "_id": "5ff734ff920f8d03005d21c3",
+    "_parentId": "5ff734ff920f8d03005d21c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "vimeo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>In&nbsp;this module, we will&nbsp;watch a&nbsp;video to learn the steps to&nbsp;create&nbsp;requests in CarePortal.</p>",
+    "_id": "5ff77039920f8d03005d21cf",
+    "_parentId": "5ff77017920f8d03005d21ce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click play to review the entire video.",
+    "_setCompletionOn": "play",
+    "_media": {
+      "_source": "https://vimeo.com/491355955/65aa79f85f",
+      "_autoplay": false,
+      "_loop": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Download Transcript",
+      "transcriptLink": "course/en/assets/92a5e865b1e11e61011ad12e373be5a143d5069b.txt"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Closing a Request",
+    "displayTitle": "Closing a Request",
+    "body": "<p>We need to eventually close all requests:</p><ul><li>When the need is met</li><li>When it is not met by the timeframe requested (24 hours, 72 hours, 10 days), or</li><li>The need no longer exists</li></ul><p>It is our policy to close all requests prior to being 30 days old.</p><p>Please remember that not all the requests on CarePortal will be met by churches.</p>",
+    "_id": "603015fd47a37103306f01e7",
+    "_parentId": "603015fd47a37103306f01e6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reasons for Closing",
+    "displayTitle": "Reasons for Closing",
+    "body": "<p>When&nbsp;closing&nbsp;a request, it is important to select the appropriate reason for closing.&nbsp; This allows for accurate tracking of CarePortal success.&nbsp; Let’s take a look at all the options.&nbsp; For more information, refer to <a href=\"https://careportal.zendesk.com/hc/en-us/articles/360039148933-Closing-a-Request\" target=\"_blank\">CarePortal Help Center</a>.</p>",
+    "_id": "6030161f47a37103306f01e8",
+    "_parentId": "603015fd47a37103306f01e6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each item to learn more. ",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Church Responded and Met the Need",
+        "body": "<p>This reason should be used anytime a request is met by a Church via CarePortal.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Other Resources Came to Meet the Need",
+        "body": "<p>This reason should be used if the request is met via means outside of CarePortal.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Time Has Passed and No Longer Relevant",
+        "body": "<p>This reason should be used if the request was not met during the requested time period rendering the request no longer valid.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Other Reason",
+        "body": "<p>Select this option if none of the other 3 reasons above are applicable.&nbsp;&nbsp;<em>Do not </em>use this reason if you are canceling the request.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "I Need to Cancel this Request",
+        "body": "<p>This reason should only be used if you need to cancel the request.&nbsp; Requests that are cancelled do not count in any calculations. A request could be cancelled for several reasons, such as:</p><ul><li>A duplicate request</li><li>Incorrect information entered, or</li><li>If the request needs to be resubmitted for any reason</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]
